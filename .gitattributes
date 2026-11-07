@@ -1,2 +1,4 @@
-Compatibility_Results.csv filter=lfs diff=lfs merge=lfs -text
-Formal_Results.csv filter=lfs diff=lfs merge=lfs -text
+GRADED_BASELINE.CSV filter=lfs diff=lfs merge=lfs -text
+GRADED_COMPLETE.CSV filter=lfs diff=lfs merge=lfs -text
+RESULTS_COMPLETE.CSV filter=lfs diff=lfs merge=lfs -text
+RESULTS_BASELINE.CSV filter=lfs diff=lfs merge=lfs -text
